@@ -1,0 +1,17 @@
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\bin\Debug\net6.0-windows\rsa-crypto.exe
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\bin\Debug\net6.0-windows\rsa-crypto.deps.json
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\bin\Debug\net6.0-windows\rsa-crypto.runtimeconfig.json
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\bin\Debug\net6.0-windows\rsa-crypto.dll
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\bin\Debug\net6.0-windows\rsa-crypto.pdb
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.csproj.AssemblyReference.cache
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa_crypto.Form1.resources
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.csproj.GenerateResource.cache
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.AssemblyInfoInputs.cache
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.AssemblyInfo.cs
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.csproj.CoreCompileInputs.cache
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.dll
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\refint\rsa-crypto.dll
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.pdb
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\rsa-crypto.genruntimeconfig.cache
+C:\Users\HIEU\Desktop\rsa-crypto\rsa-crypto\obj\Debug\net6.0-windows\ref\rsa-crypto.dll
